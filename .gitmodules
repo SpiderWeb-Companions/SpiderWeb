@@ -1,0 +1,9 @@
+[submodule "Infrastructure"]
+	path = Infrastructure
+	url = https://github.com/SpiderWeb-Companions/Infrastructure.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/SpiderWeb-Companions/Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/SpiderWeb-Companions/Frontend.git
